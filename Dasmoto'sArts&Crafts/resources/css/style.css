@@ -1,0 +1,33 @@
+body{
+	font-family: helvetica;
+}
+h1 {
+	font-size: 100px;
+	background-image: url(../images/pattern.jpeg);
+	text-align: center;
+	color: khaki;
+	font-weight: bold;
+}
+h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+h3 {
+	font-size: 30px;
+}
+p {
+	font-size: 20px;
+}
+#brush {
+	background-color: lightgreen;
+}
+#paint {
+	background-color: pink;
+}
+#frame {
+	background-color: lightblue;
+	
+}
+.item img {
+	margin: 0 auto;
+}
